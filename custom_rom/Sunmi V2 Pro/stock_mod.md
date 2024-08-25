@@ -1,10 +1,8 @@
 # Changes in version 1.0
 
 Download link: https://www.mediafire.com/file/v6zrae7m2ryrfze/stock_mod_1.0.zip/file
-
-If you don't know how to install this custom rom here is the tutorial:
-How to install: https://github.com/niko-forte/sunmi_mods/blob/main/tutorials/howtoinstallromv2pro.md
-
+How to install:
+https://github.com/niko-forte/sunmi_mods/blob/main/tutorials/howtoinstallromv2pro.md
 Support Group: https://t.me/sunmi_mods_chat
 
 Initial release
