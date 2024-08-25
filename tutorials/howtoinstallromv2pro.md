@@ -12,3 +12,11 @@ The firehose programmer:
 https://www.mediafire.com/file/sdaturhgquuhu9m/firehose_8917.zip/file
 Qualcomm drivers (only if you don't have the installer)
 https://www.mediafire.com/file/7u4m6d36spxhrlt/Qualcomm_USB_Drivers.zip/file
+
+Assuming you have all the programs and drivers installed, let's continue
+You need to make a bridge with something metallic between the 2 test points
+Make sure the bridge is well made and (with the device off) keep the bridge on the test point
+And connect the USB cable to the device and to the PC (after opening the Qfil)
+It should appear like the following image
+
+![](https://github.com/niko-forte/sunmi_mods/blob/main/tutorials/data/qfil.png)
