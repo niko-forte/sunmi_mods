@@ -8,6 +8,8 @@ https://github.com/niko-forte/sunmi_mods/blob/main/tutorials/howtoinstallromv2pr
 
 Support Group: https://t.me/sunmi_mods_chat
 
+Link to the telegram post: https://t.me/sunmi_mods/33
+
 Initial release
 
 Additions:
