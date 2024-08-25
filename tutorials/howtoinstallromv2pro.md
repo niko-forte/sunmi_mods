@@ -46,3 +46,12 @@ Then the boot partition and finally the system partition
 When you click on "manage partition data" you should see the following:
 
 ![](https://github.com/niko-forte/sunmi_mods/blob/main/tutorials/data/flash.png)
+
+Click on load image (ONLY IF YOU SELECT THE PARTITIONS INDICATED)
+otherwise your device may become unusable
+once you do that and remember that you must start with devinfo
+click on load image and look for the devinfo.bin file and wait for it to finish, then do the same with the boot (boot.img file) and finally system (system.img file)
+once everything is finished close all the boxes, the device should reboot itself
+if it doesn't, hold down the power button and the volume down button until it reboots
+when it reboots you should see the following
+
