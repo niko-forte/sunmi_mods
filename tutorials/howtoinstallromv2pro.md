@@ -32,3 +32,5 @@ and look for the downloaded firehose
 after you have selected the correct firehose go to
 Tools/partition manager, if the following box appears
 ![](https://github.com/niko-forte/sunmi_mods/blob/main/tutorials/data/confirm.png)
+Just select "ok" and after a few seconds the following should appear:
+![](https://github.com/niko-forte/sunmi_mods/blob/main/tutorials/data/partitionlist.png)
