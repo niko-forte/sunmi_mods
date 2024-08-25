@@ -31,6 +31,18 @@ select in qfil "flat build" and in the select programmer section select Browser
 and look for the downloaded firehose
 after you have selected the correct firehose go to
 Tools/partition manager, if the following box appears
+
 ![](https://github.com/niko-forte/sunmi_mods/blob/main/tutorials/data/confirm.png)
+
 Just select "ok" and after a few seconds the following should appear:
+
 ![](https://github.com/niko-forte/sunmi_mods/blob/main/tutorials/data/partitionlist.png)
+
+When the list of partitions appears, you should look for the following 3 partitions:
+Boot Devinfo System
+Right-click on the partition and click on "manage partition data"
+For greater security, I would suggest starting with the devinfo partition
+Then the boot partition and finally the system partition
+When you click on "manage partition data" you should see the following:
+
+![](https://github.com/niko-forte/sunmi_mods/blob/main/tutorials/data/flash.png)
