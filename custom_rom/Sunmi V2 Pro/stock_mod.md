@@ -8,7 +8,7 @@ https://github.com/niko-forte/sunmi_mods/blob/main/tutorials/howtoinstallromv2pr
 
 Support Group: https://t.me/sunmi_mods_chat
 
-nitial release
+Initial release
 
 Additions:
 - Unnecessary Sunmi apps removed
