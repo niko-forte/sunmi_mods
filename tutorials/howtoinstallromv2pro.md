@@ -55,3 +55,10 @@ once everything is finished close all the boxes, the device should reboot itself
 if it doesn't, hold down the power button and the volume down button until it reboots
 when it reboots you should see the following
 
+![](https://github.com/niko-forte/sunmi_mods/blob/main/tutorials/data/ready.png)
+
+Now use the volume buttons to go to the recovery option and select it with the power button
+once in recovery go to Wipe data/factory reset and delete all data (it may not start if it does)
+after that restart and wait for it to start, if it starts it will be fine
+CONGRATULATIONS, YOU DID ALL THE STEPS CORRECTLY
+THAT'S ALL, ENJOY NOW
