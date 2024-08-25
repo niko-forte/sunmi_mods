@@ -12,6 +12,7 @@ Initial release
 
 Additions:
 - Unnecessary Sunmi apps removed
+
 - The following apps were updated:
 - Google Chrome
 - Google Maps
