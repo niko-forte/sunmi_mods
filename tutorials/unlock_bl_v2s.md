@@ -1,4 +1,4 @@
-How to unlock the bootloader on the Sunmi V2s
+# How to unlock the bootloader on the Sunmi V2s
 
 ## FOLLOW THE STEPS CORRECTLY IF YOU DON'T WANT TO BRICK YOUR DEVICE!!!
 
@@ -12,3 +12,11 @@ and it will start in fastboot mode In the same cmd window type fastboot devices 
 ATTENTION TO THE NEXT STEP, THE NEXT COMMAND WILL DELETE EVERYTHING, COPY YOUR IMPORTANT FILES
 Type in cmd fastboot flashing unlock and follow the instructions on the device screen And that's it
 your bootloader will now be unlocked.
+
+In order to unlock the bootloader you need to have the adb/fastboot installed
+and the drivers installed as well
+
+Make sure you have the drivers correctly installed, if you don't have them download them from here: https://www.mediafire.com/file/qw6z0egl0t6p44f/usb_driver_r13-windows.zip/file
+
+If you don't have adb/fastboot installed you can download it from here:
+https://www.mediafire.com/file/32wavp9qu5cv7dj/platform-tools-latest-windows.zip/file
