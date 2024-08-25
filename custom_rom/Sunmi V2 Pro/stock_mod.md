@@ -11,6 +11,7 @@ Support Group: https://t.me/sunmi_mods_chat
 Initial release
 
 Additions:
+
 Unnecessary Sunmi apps removed
 - The following apps were updated:
 - Google Chrome
