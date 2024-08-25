@@ -1,4 +1,4 @@
-Changes in version 1.0
+# Changes in version 1.0
 
 Download link: https://www.mediafire.com/file/v6zrae7m2ryrfze/stock_mod_1.0.zip/file
 If you don't know how to install this custom rom here is the tutorial:
