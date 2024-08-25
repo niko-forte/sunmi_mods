@@ -20,3 +20,13 @@ And connect the USB cable to the device and to the PC (after opening the Qfil)
 It should appear like the following image
 
 ![](https://github.com/niko-forte/sunmi_mods/blob/main/tutorials/data/qfil.png)
+
+(it doesn't have to be COM5) that depends on the port on your PC
+The important thing is that if Qualcomm HS-USB QDLoader 9008 appears
+If it appears like that, you are on the right track. If not, stop and start the whole process again.
+
+select in qfil "flat build" and in the select programmer section select Browser
+and look for the downloaded firehose
+after you have selected the correct firehose go to
+partition manager, if the following box appears
+![](https://github.com/niko-forte/sunmi_mods/blob/main/tutorials/data/confirm.png)
