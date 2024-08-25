@@ -8,29 +8,31 @@ https://github.com/niko-forte/sunmi_mods/blob/main/tutorials/howtoinstallromv2pr
 
 Support Group: https://t.me/sunmi_mods_chat
 
-Initial release
+nitial release
+
 Additions:
-Unnecessary Sunmi apps removed
-The following apps were updated:
-Google Chrome
-Google Maps
-Gmail
-Play Store
+- Unnecessary Sunmi apps removed
+- The following apps were updated:
+- Google Chrome
+- Google Maps
+- Gmail
+- Play Store
 
 The following apps were added (They were not included in the system)
-Youtube
-Youtube music
-LibreOffice
-Calendar (Yes, the system did not have a calendar app)
-Contacts apps (Yes, the system did not have one either)
-Clock app (and to set an alarm)
-Mini pdf viewer
-Music player
-Screen recorder*
-Google Keep (notes app)
-File manager
-Barcode/QR reader
-Changed the bootanimation to one with sound
+
+-Youtube
+-Youtube music
+-LibreOffice
+-Calendar (Yes, the system did not have a calendar app)
+-Contacts apps (Yes, the system did not have one either)
+-Clock app (and to set an alarm)
+-Mini pdf viewer
+-Music player
+-Screen recorder*
+-Google Keep (notes app)
+-File manager
+-Barcode/QR reader
+-Changed the bootanimation to one with sound
 
 The kernel is already pre-rooted with Magisk 27.0
 
