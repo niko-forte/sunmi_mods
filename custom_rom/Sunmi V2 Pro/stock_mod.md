@@ -11,15 +11,14 @@ Support Group: https://t.me/sunmi_mods_chat
 Initial release
 
 Additions:
-
-Unnecessary Sunmi apps removed
-- The following apps were updated:
+- Unnecessary Sunmi apps removed
+# - The following apps were updated:
 - Google Chrome
 - Google Maps
 - Gmail
 - Play Store
 
-The following apps were added (They were not included in the system)
+# The following apps were added (They were not included in the system)
 
 - Youtube
 - Youtube music
