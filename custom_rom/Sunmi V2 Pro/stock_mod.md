@@ -32,6 +32,7 @@ Additions:
 - Google Keep (notes app)
 - File manager
 - Barcode/QR reader
+- The default launcher has been changed to the trebuchet launcher with some extra customization options
 - Changed the bootanimation to one with sound
 
 # - The kernel is already pre-rooted with Magisk 27.0
