@@ -1,5 +1,11 @@
 # HELLO, HOW ARE YOU? WELCOME
 
-If you are looking for a way to root and/or are looking for a custom rom for the Sunmi V2 Pro (and maybe other sunmi devices, like the Sunmi V2s) in my telegram channel you can find these things
+Here Nikki welcomes you to this little Github dedicated to custom roms/root for Sunmi devices
+
+For now the available ones are:
+- Sunmi V2 Pro
+- Sunmi V2s
+
+I also recommend you visit my telegram channel if you have any questions.
 https://t.me/sunmi_mods_chat
 Please be kind and read the rules when entering the Telegram channel/group
