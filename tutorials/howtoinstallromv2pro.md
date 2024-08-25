@@ -60,5 +60,17 @@ when it reboots you should see the following
 Now use the volume buttons to go to the recovery option and select it with the power button
 once in recovery go to Wipe data/factory reset and delete all data (it may not start if it does)
 after that restart and wait for it to start, if it starts it will be fine
+
 CONGRATULATIONS, YOU DID ALL THE STEPS CORRECTLY
 THAT'S ALL, ENJOY NOW
+
+As an extra note (which is not mandatory) you can do the following on the back
+
+![](https://github.com/niko-forte/sunmi_mods/blob/main/tutorials/data/TestPoint_2.png)
+
+to have easier access to the test points to change between my ROMs
+and not always have the device disassembled
+or you can also solder a push button or whatever you think is more comfortable
+only if you want to not always have the device disassembled
+to have access to the test points
+(since it is ALWAYS required to make the bridge in the test point to change ROMs
