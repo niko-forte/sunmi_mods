@@ -37,10 +37,9 @@ Additions:
 - The default launcher has been changed to the trebuchet launcher with some extra customization options
 - Changed the bootanimation to one with sound
 - Added Busybox on /system
+- The kernel is already pre-rooted with Magisk 27.0
 
-# The kernel is already pre-rooted with Magisk 27.0
-
-Bugs:
+# Bugs:
 
 Audio recording? You could say that it is a bug although
 it is not, the screen recording app* also has an audio recording feature
