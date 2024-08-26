@@ -10,7 +10,7 @@ Link to the telegram post and Screenshots [here](https://t.me/sunmi_mods/33)
 
 Initial release
 
-Additions:
+### Additions:
 - (Unnecessary Sunmi apps removed)
 - The following apps were updated:
 - Google Chrome
@@ -18,7 +18,7 @@ Additions:
 - Gmail
 - Play Store
 
-# The following apps were added (They were not included in the system)
+### The following apps were added (They were not included in the system)
 
 - Youtube
 - Youtube music
@@ -37,7 +37,7 @@ Additions:
 - Added Busybox on /system
 - The kernel is already pre-rooted with Magisk 27.0
 
-# Bugs:
+### Bugs:
 
 Audio recording? You could say that it is a bug although
 it is not, the screen recording app* also has an audio recording feature
