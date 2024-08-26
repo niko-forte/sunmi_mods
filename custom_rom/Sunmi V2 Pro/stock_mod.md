@@ -8,7 +8,7 @@ https://github.com/niko-forte/sunmi_mods/blob/main/tutorials/howtoinstallromv2pr
 
 Support Group: https://t.me/sunmi_mods_chat
 
-Link to the telegram post: https://t.me/sunmi_mods/33
+Link to the telegram post and Screenshots: https://t.me/sunmi_mods/33
 
 Initial release
 
@@ -36,8 +36,9 @@ Additions:
 - Barcode/QR reader
 - The default launcher has been changed to the trebuchet launcher with some extra customization options
 - Changed the bootanimation to one with sound
+- Added Busybox on /system
 
-# - The kernel is already pre-rooted with Magisk 27.0
+# The kernel is already pre-rooted with Magisk 27.0
 
 Bugs:
 
