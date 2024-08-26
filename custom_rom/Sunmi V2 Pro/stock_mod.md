@@ -1,7 +1,7 @@
 # Changes in version 1.0
 
 Download link:
-https://www.mediafire.com/file/v6zrae7m2ryrfze/stock_mod_1.0.zip/file
+https://www.mediafire.com/file/vstrfnpl3arbauj/stock_mod.zip/file
 
 How to install:
 https://github.com/niko-forte/sunmi_mods/blob/main/tutorials/howtoinstallromv2pro.md
