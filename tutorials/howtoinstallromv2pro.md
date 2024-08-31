@@ -7,14 +7,9 @@ First of all, you must VERY CAREFULLY uncover the device and then locate the tes
 
 You will need the following programs:
 
-QPST 2.7 (Includes qfil)
-https://www.mediafire.com/file/55ptn3ztgwgzg2m/QPST_2.7.496.zip/file
-
-The firehose programmer:
-https://www.mediafire.com/file/sdaturhgquuhu9m/firehose_8917.zip/file
-
-Qualcomm drivers (only if you don't have the installer)
-https://www.mediafire.com/file/7u4m6d36spxhrlt/Qualcomm_USB_Drivers.zip/file
+- QPST 2.7 (Includes qfil) [here](https://www.mediafire.com/file/55ptn3ztgwgzg2m/QPST_2.7.496.zip/file)
+- The firehose programmer: [here](https://www.mediafire.com/file/sdaturhgquuhu9m/firehose_8917.zip/file)
+- Qualcomm drivers (only if you don't have the installer) [here](https://www.mediafire.com/file/7u4m6d36spxhrlt/Qualcomm_USB_Drivers.zip/file)
 
 Assuming you have all the programs and drivers installed, let's continue
 You need to make a bridge with something metallic between the 2 test points
