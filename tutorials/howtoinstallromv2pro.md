@@ -73,4 +73,4 @@ and not always have the device disassembled
 or you can also solder a push button or whatever you think is more comfortable
 only if you want to not always have the device disassembled
 to have access to the test points
-(since it is ALWAYS required to make the bridge in the test point to change ROMs
+since it is ALWAYS required to make the bridge in the test point to change ROMs
