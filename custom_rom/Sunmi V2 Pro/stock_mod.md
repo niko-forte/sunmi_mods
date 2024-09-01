@@ -1,6 +1,6 @@
 # Changes in version 1.0
 
-Download link [here](https://www.mediafire.com/file/hkm2udjdtdgrrr5/stock_mod.zip/file)
+Download link [here](https://www.mediafire.com/file/lf5l5zgwrx5spcz/stock_mod.zip/file)
 
 How to install [here](https://github.com/niko-forte/sunmi_mods/blob/main/tutorials/howtoinstallromv2pro.md)
 
@@ -22,11 +22,10 @@ Initial release
 
 - Youtube
 - Youtube music
-- LibreOffice
+- WPS Office
 - Calendar (Yes, the system did not have a calendar app)
 - Contacts apps (Yes, the system did not have one either)
 - Clock app (and to set an alarm)
-- Mini pdf viewer
 - Music player
 - Screen recorder*
 - Google Keep (notes app)
@@ -37,16 +36,19 @@ Initial release
 - Added Busybox on /system
 - The kernel is already pre-rooted with Magisk 27.0
 
-### Bugs:
+### Bugs??:
 
-Audio recording? You could say that it is a bug although
+- Audio recording?
+You could say that it is a bug although
 it is not, the screen recording app* also has an audio recording feature
 but it does not record, nor does it record audio from the screen recorder itself
 but it is not a rom error, the device does not have an integrated microphone
 
-
-Voice calls ??? Since as it was said that the device does not have a microphone
+- Voice calls??
+Since as it was said that the device does not have a microphone
 it is impossible to make calls, for that same reason it was decided not to add a dialer app
 but if you want to install it on your own here is a link to download and install the dialer app
 (remember to give it the necessary permissions)
 https://www.mediafire.com/file/odi1djr9vl9wns9/Dialer.apk/file
+
+- If you find any other error, report it to the telegram channel
