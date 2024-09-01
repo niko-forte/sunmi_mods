@@ -6,7 +6,7 @@ How to install [here](https://github.com/niko-forte/sunmi_mods/blob/main/tutoria
 
 Support Group [here](https://t.me/sunmi_mods_chat)
 
-Link to the telegram post and Screenshots [here](https://t.me/sunmi_mods/33)
+Link to the telegram post and Screenshots [here](https://t.me/sunmi_mods_chat/267)
 
 Initial release
 
