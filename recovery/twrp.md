@@ -2,7 +2,7 @@
 
 After a while the custom recovery twrp was completed
 
-Screenshots [here](https://NULL.NULL)
+Screenshots [here](https://t.me/sunmi_mods/68)
 
 The installation process is the same as when you install [this](https://github.com/niko-forte/sunmi_mods/blob/main/custom_rom/Sunmi%20V2%20Pro/stock_mod.md) custom com, except that instead of selecting boot/devinfo/system you would only select the recovery partition
 (or the devinfo partition if you did not previously install the custom rom)
