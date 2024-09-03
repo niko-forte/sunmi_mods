@@ -54,8 +54,7 @@ but it is not a rom error, the device does not have an integrated microphone
 - Voice calls??
 Since as it was said that the device does not have a microphone
 it is impossible to make calls, for that same reason it was decided not to add a dialer app
-but if you want to install it on your own here is a link to download and install the dialer app
+but if you want to install it on your own here is a link to download and install the [dialer](https://www.mediafire.com/file/odi1djr9vl9wns9/Dialer.apk/file) app
 (remember to give it the necessary permissions)
-https://www.mediafire.com/file/odi1djr9vl9wns9/Dialer.apk/file
 
 - If you find any other error, report it to the telegram channel
