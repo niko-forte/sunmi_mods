@@ -6,7 +6,5 @@ For now the available ones are:
 - Sunmi V2 Pro
 - Sunmi V2s
 
-I also recommend you visit my telegram channel if you have any questions.
-https://t.me/sunmi_mods_chat
-Please be kind and read the rules when entering the Telegram channel/group
-Here you can find a little more information
+Telegram [channel](https://t.me/sunmi_mods)
+Support [group](https://t.me/sunmi_mods_chat)
