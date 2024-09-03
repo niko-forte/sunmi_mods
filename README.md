@@ -7,4 +7,5 @@ For now the available ones are:
 - Sunmi V2s
 
 Telegram [channel](https://t.me/sunmi_mods)
+
 Support [group](https://t.me/sunmi_mods_chat)
