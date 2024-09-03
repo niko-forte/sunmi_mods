@@ -57,4 +57,4 @@ it is impossible to make calls, for that same reason it was decided not to add a
 but if you want to install it on your own here is a link to download and install the [dialer](https://www.mediafire.com/file/odi1djr9vl9wns9/Dialer.apk/file) app
 (remember to give it the necessary permissions)
 
-- If you find any other error, report it to the telegram channel
+- If you find any other error, report it to the telegram [channel](https://t.me/sunmi_mods_chat)
