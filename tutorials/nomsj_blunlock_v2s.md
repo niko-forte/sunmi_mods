@@ -8,6 +8,7 @@ or anything else that does not belong to the manufacturer
 
 To proceed to remove it, first follow these steps
 Download the following [file](https://www.mediafire.com/file/0f9b99jm2ihmrb7/lk_mod.zip/file)
+
 Then you can install it in fastboot mode with its respective
 .sh or .cmd from Linux or Windows
 
