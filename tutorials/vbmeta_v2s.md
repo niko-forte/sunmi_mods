@@ -1,4 +1,8 @@
-## ATTENTION!!!
+# ATTENTION!!!
+
+### Why is it important to flash vbmeta?
+
+Flashing vbmeta files on Android is used to modify or update the boot verification policy of the device, especially when changing or modifying system partitions. This is common in the process of system customization, such as when installing custom ROMs or unlocking the bootloader.
 
 Before making any modification to the system or rooting it and/or any other modification
 it is advisable to patch the vbmeta if you do not want to get a verification error or some similar error
