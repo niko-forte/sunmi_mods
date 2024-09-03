@@ -1,4 +1,5 @@
-# TWRP FOR SUNMI V2 PRO (Version 3.3.1) (SD425)
+# TWRP FOR SUNMI V2 PRO (Version 3.3.1)
+### Only for Sunmi V2 Pro (SD425)
 
 After a while the custom recovery twrp was completed
 
