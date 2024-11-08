@@ -10,3 +10,5 @@ To check for yourself what version of the board you have, you must disassemble y
 We are not responsible if you damage your device by not reading the warnings of the different boards
 
 Certain things are compatible between both boards, such as the twrp recovery, but other things are not, such as the custom rom
+
+Please you are strongly requested to check your motherboard version before installing the custom rom, as failure to do so may permanently damage your device.
