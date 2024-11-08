@@ -1,6 +1,7 @@
-## READ THIS WARNING PLEASE, READ CAREFULLY !!!
+# READ THIS WARNING PLEASE, READ CAREFULLY !!!
 
-Because there are several versions of the device's boards (see next image)
+## Because there are several versions of the device's boards (see next image)
+
 ![](https://github.com/niko-forte/sunmi_mods/blob/main/tutorials/data/board_v1_v2.png)
 
 Certain things may be incompatible with each other (it will be specified what thing)
