@@ -3,7 +3,7 @@
 If you own a Sunmi v2s locked by some company and without Google services
 you can download here a stock rom free of the ties of some companies and with Google services ready to use
 
-![](https://github.com/niko-forte/sunmi_mods/blob/main/tutorials/data/stock_v2s.png)
+![](https://github.com/niko-forte/sunmi_mods/blob/main/tutorials/data/stock_v2s.jpg)
 
 ### To install it you must unlock the bootloader, you can see the tutorial on how to do it here
 This rom has Android version 11
