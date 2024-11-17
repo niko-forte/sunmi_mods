@@ -1,11 +1,11 @@
 # Stock Rom for Sunmi v2s (all variants)
 
 If you own a Sunmi v2s locked by some company and without Google services
-you can download here a stock rom free of the ties of some companies and with Google services ready to use
+you can download [here](https://www.mediafire.com/file/ekaa0fbedtpcw17/sunmi_v2s_android11.zip/file) a stock rom free of the ties of some companies and with Google services ready to use
 
 ![](https://github.com/niko-forte/sunmi_mods/blob/main/tutorials/data/stock_v2s.jpg)
 
-### To install it you must unlock the bootloader, you can see the tutorial on how to do it here
+### To install it you must unlock the bootloader, you can see the tutorial on how to do it [here](https://github.com/niko-forte/sunmi_mods/blob/main/tutorials/unlock_bl_v2s.md)
 This rom has Android version 11
 The good thing about this ROM is that it can work on variants that have NFC as well as variants that do not have NFC
 It can also convert variants that do not have Google services into variants that do have them
@@ -17,4 +17,4 @@ Likewise the ROM installer gives you the option to choose if you want to get roo
 ## How do I install it?
 
 Simply run the python file, it is compatible with Windows and Linux operating systems (macOS was not tested)
-It simply requires having python and fastboot installed
+It simply requires having [python](https://www.python.org/) and fastboot installed
