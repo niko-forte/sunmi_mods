@@ -1,7 +1,7 @@
 ## PROCEED WITH CAUTION!!!
 ## This tutorial is only for the Sunmi V2s
 
-If you are bothered by the "Red state/Orange state" message, you can remove it
+If you are bothered by the "Red state/Orange state" (And now the 5 second delay on startup) message, you can remove it
 This typical message usually appears when unlocking the bootloader or flashing another file
 that does not belong to the system, be it a custom rom, a custom recovery
 or anything else that does not belong to the manufacturer
