@@ -43,6 +43,10 @@ it is impossible to make calls, for that same reason it was decided not to add a
 but if you want to install it on your own here is a link to download and install the [dialer](https://www.mediafire.com/file/odi1djr9vl9wns9/Dialer.apk/file) app
 (remember to give it the necessary permissions)
 
+- NFC?: Because not all v2 boards have NFC (some do, others don't) it was decided to leave the NFC option
+If you see that when you try to archive that option nothing happens, it's not a ROM error, it's that your device doesn't have NFC.
+
+### Links:
 
 Download link [here](https://www.mediafire.com/file/tdpgl2ga9rtqavn/custom_board-v2.zip/file)
 
