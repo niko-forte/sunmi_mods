@@ -1,4 +1,4 @@
-Please read [this](https://github.com/niko-forte/sunmi_mods/blob/main/custom_rom/Sunmi%20V2%20Pro/warning.md) first 
+# Please read [this](https://github.com/niko-forte/sunmi_mods/blob/main/custom_rom/Sunmi%20V2%20Pro/warning.md) first 
 # Custom rom for Sunmi V2 Pro (Board V2)
 
 After a long wait, the custom for the v2 board is finally available
