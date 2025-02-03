@@ -1,12 +1,5 @@
+Please read [this](https://github.com/niko-forte/sunmi_mods/blob/main/custom_rom/Sunmi%20V2%20Pro/warning.md) first 
 # Changes in version 1.0
-
-Download link [here](https://www.mediafire.com/file/lf5l5zgwrx5spcz/stock_mod.zip/file)
-
-How to install [here](https://github.com/niko-forte/sunmi_mods/blob/main/tutorials/howtoinstallromv2pro.md)
-
-Support Group [here](https://t.me/sunmi_mods_chat)
-
-Link to the telegram post and Screenshots [here](https://t.me/sunmi_mods_chat/267)
 
 Initial release
 
@@ -50,4 +43,14 @@ it is impossible to make calls, for that same reason it was decided not to add a
 but if you want to install it on your own here is a link to download and install the [dialer](https://www.mediafire.com/file/odi1djr9vl9wns9/Dialer.apk/file) app
 (remember to give it the necessary permissions)
 
-- If you find any other error, report it to the telegram [channel](https://t.me/sunmi_mods_chat)
+### Links:
+
+Download link [here](https://www.mediafire.com/file/lf5l5zgwrx5spcz/stock_mod.zip/file)
+
+How to install [here](https://github.com/niko-forte/sunmi_mods/blob/main/tutorials/howtoinstallromv2pro.md)
+
+Support Group [here](https://t.me/sunmi_mods_chat)
+
+Link to the telegram post and Screenshots [here](https://t.me/sunmi_mods_chat/267)
+
+If you find any other error, report it to the telegram [channel](https://t.me/sunmi_mods_chat)
