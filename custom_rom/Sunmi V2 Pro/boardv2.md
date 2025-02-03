@@ -45,6 +45,9 @@ but if you want to install it on your own here is a link to download and install
 
 
 Download link [here](https://www.mediafire.com/file/tdpgl2ga9rtqavn/custom_board-v2.zip/file)
+
 How to install [here](https://github.com/niko-forte/sunmi_mods/blob/main/tutorials/howtoinstallromv2pro.md)
+
 Support Group [here](https://t.me/sunmi_mods_chat)
- If you find any other error, report it to the telegram [channel](https://t.me/sunmi_mods_chat)
+
+If you find any other error, report it to the telegram [channel](https://t.me/sunmi_mods_chat)
