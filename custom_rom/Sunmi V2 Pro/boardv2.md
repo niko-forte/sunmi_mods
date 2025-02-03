@@ -27,7 +27,7 @@ List of changes (similar to the board v1 rom):
 - File manager
 - Barcode/QR reader
 - The stock launcher was changed to a more minimalist one
-- The kernel is already pre-rooted with Magisk 27.0
+- The kernel is already pre-rooted with Magisk 27.0 (Optionally including a file without magisk)
 
 ### Bugs??:
 
@@ -44,10 +44,7 @@ but if you want to install it on your own here is a link to download and install
 (remember to give it the necessary permissions)
 
 
-
 Download link [here](https://www.mediafire.com/file/tdpgl2ga9rtqavn/custom_board-v2.zip/file)
-
 How to install [here](https://github.com/niko-forte/sunmi_mods/blob/main/tutorials/howtoinstallromv2pro.md)
-
 Support Group [here](https://t.me/sunmi_mods_chat)
-- If you find any other error, report it to the telegram [channel](https://t.me/sunmi_mods_chat)
+ If you find any other error, report it to the telegram [channel](https://t.me/sunmi_mods_chat)
