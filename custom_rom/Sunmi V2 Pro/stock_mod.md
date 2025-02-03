@@ -1,4 +1,4 @@
-Please read [this](https://github.com/niko-forte/sunmi_mods/blob/main/custom_rom/Sunmi%20V2%20Pro/warning.md) first 
+# Please read [this](https://github.com/niko-forte/sunmi_mods/blob/main/custom_rom/Sunmi%20V2%20Pro/warning.md) first 
 # Changes in version 1.0
 
 Initial release
